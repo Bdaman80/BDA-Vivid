@@ -1,0 +1,1 @@
+#define UTS_RELEASE "2.6.35.13BDA-Vivid-2011-12-28-gc55941a"
